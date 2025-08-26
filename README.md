@@ -5,15 +5,14 @@
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ...</br>
+ 🔭 I’m currently working on Real Estate House-Price Predictor linear regression 📈 </br>
  🎓  Studied [ Science IT ] (https://www.jkuat.ac.ke/) at Jomo Kenyatta University, Kenya<br/>
  🌱 I’m currently learning a Data Science Student At (https://moringaschool.com/)</br>
- 👯 I’m looking to collaborate on ...</br>
+ 👯 I’m looking to collaborate on Data Science projects </br>
  🤔 I’m looking for help with ...</br>
- 💬 Ask me about ...</br>
- 📫 How to reach me: ...</br>
- 😄 Pronouns: ...</br>
- ⚡ Fun fact: ...</br>
+ 💬 Ask me about AI, DP, ML, NN, GA</br>
+ 📫 How to reach me: Email me via (ongakivictor3@gmail.com)</br>
+ ⚡ Fun fact: Apple’s original logo: Apple’s first logo featured Sir Isaac Newton sitting under a tree, with an apple about to fall on his head, a far cry from the sleek bitten apple logo we know today.</br>
 
 
 ## 🌐 Socials:
